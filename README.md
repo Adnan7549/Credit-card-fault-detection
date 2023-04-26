@@ -26,8 +26,6 @@ Matplotlib
 # Credits
 Kaggle Credit Card Fraud Detection dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
 Scikit-learn library for machine learning in Python: https://scikit-learn.org/stable/
-Flask web framework for Python: https://flask.palletsprojects.com/en/2.1.x/
-Heroku cloud platform for deploying web applications: https://www.heroku.com/
 Matplotlib library for data visualization in Python: https://matplotlib.org/
 Pandas library for data manipulation in Python: https://pandas.pydata.org/
 
